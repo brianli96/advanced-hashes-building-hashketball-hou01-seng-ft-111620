@@ -2,8 +2,8 @@
 def game_hash
   hashket = {
    :home => {
-     :team_name => " ",
-     :colors => [],
+     :team_name => "Brooklyn Nets",
+     :colors => ["Black", "White"],
      :players => [{}]
    }
    :away => {
